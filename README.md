@@ -3,6 +3,15 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flee990324%2Flee990324%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lee990324&show_icons=true&theme=radical&count_private=true) <!-- &include_all_commits=true -->
+<!-- Rank
+1 - 
+[2*{1- 2^(-commits/250)} +
+3*{1- 2^(-prs/50)} +
+1*{1- 2^(-issues/25)} +
+1*{1- 2^(-reviews/2)} +
+4*{(stars/50)/ (1 + stars/50)} +
+1*{(followers/10)/ (1 + followers/10)}] / 12
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee990324&layout=compact&theme=radical)
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee990324)](https://solved.ac/lee990324/) -->
 
