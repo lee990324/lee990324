@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee990324&layout=compact&theme=radical)
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee990324)](https://solved.ac/lee990324/) -->
 
-<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
+![](./profile-3d-contrib/profile-night-green.svg)
 
 # 💪Skills
 ### Platforms & Languages
